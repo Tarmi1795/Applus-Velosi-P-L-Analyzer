@@ -1,0 +1,5 @@
+{
+  "name": "Applus Velosi P&L Analyzer",
+  "description": "A modern, full-stack capable React application for commercial quotation, cost breakdown, and P&L analysis with Excel integration.",
+  "requestFramePermissions": []
+}
